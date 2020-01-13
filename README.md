@@ -1,7 +1,7 @@
 # pynetworktables2js-mock-server
 A server to mock a connection to a robot with pynetworktables2js
 
-Clone it, run `npm install`, then run `node index.js path to backup CBOR file) (port #)`
+Clone it, run `npm install`, then run `node index.js (path to backup CBOR file) (port #)`
 
 In your website, modify the `networktables.js` script tag as follows.
 ~~~
