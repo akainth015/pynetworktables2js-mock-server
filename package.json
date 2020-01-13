@@ -1,0 +1,25 @@
+{
+  "name": "pynetworktables2js-mock-socket",
+  "version": "1.0.0",
+  "description": "Sends fake values for a CBOR enabled pynetworktables2js dashboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "frc",
+    "dashboard",
+    "mock",
+    "pynetworktables2js"
+  ],
+  "author": {
+    "email": "aanand@akainth.me",
+    "name": "Aanand Kainth",
+    "url": "https://akainth.me"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "cbor": "^5.0.1",
+    "ws": "^7.2.1"
+  }
+}
